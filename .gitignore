@@ -1,0 +1,21 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+develop-eggs/
+.env
+venv/
+.eggs/
+Desktop.ini
+.DS_Store
+*.log
+*.egg
+Thumbs.db
+dist/
+build/
+.cache/
+.mypy_cache/
+env/
